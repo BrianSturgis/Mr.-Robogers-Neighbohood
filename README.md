@@ -24,15 +24,15 @@ A user should be able to enter a new number and see new results over and over ag
   Test:
   Expect:
 
-Describe:
+Describe: input number as a string
 Test:
 Expect:
 
-Describe:
+Describe: change string into array of characters
 Test:
 Expect:
 
-Describe:
+Describe: if character contains 
 Test:
 Expect:
 
