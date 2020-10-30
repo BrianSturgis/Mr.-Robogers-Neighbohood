@@ -3,8 +3,9 @@
 //   if (i )
 // }
 
-
-
+for num in Range(1,101,):
+ print(num)
+console.log(num)
 
 
 
@@ -14,15 +15,15 @@
 
 // UI logic//
 
-$(document).ready(function() {
-  $("form#inputNumber").submit(function(event) {
-    const num = parseInt($("#numbers").val());
+// $(document).ready(function() {
+//   $("form#inputNumber").submit(function(event) {
+//     const num = parseInt($("#numbers").val());
   
 
 
-  event.preventDefault();
-  });
-});
+//   event.preventDefault();
+//   });
+// });
 
   
 
