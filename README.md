@@ -19,6 +19,44 @@ The number 21 should be replaced with "Boop".
 The number 32 should be replaced with "Won't you be my neighbor?"
 A user should be able to enter a new number and see new results over and over again.
 
+## specifications
+Describe:
+Test:
+Expect:
+
+Describe:
+Test:
+Expect:
+
+Describe:
+Test:
+Expect:
+
+Describe:
+Test:
+Expect:
+
+Describe:
+Test:
+Expect:
+
+Describe:
+Test:
+Expect:
+
+Describe:
+Test:
+Expect:
+
+Describe:
+Test:
+Expect:
+
+Describe:
+Test:
+Expect:
+
+
 ## Setup/Installation Requirements
 - repository location https://github.com/BrianSturgis/Mr.-Robogers-Neighbohood
 - open through a git termianl or clone editor.
