@@ -1,2 +1,4 @@
-var num = [1,2,43]
-console.log(num)
+const a = [1,2,3]
+const b = [1,2,3]
+
+a === b
