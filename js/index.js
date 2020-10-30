@@ -1,29 +1,22 @@
-// business logic
-// for (let i= 1; i <= 100; i++) {
-//   if (i )
+// for (let num = 0; num <= 99; num += 1) {
+//   console.log(num)
 // }
-
-for num in Range(1,101,):
- print(num)
-console.log(num)
-
-
-
 
 
 
 
 // UI logic//
+$(document).ready(function() {
+  $("form#inputNumber").submit(function(event) {
+    let num = parseInt($("#numbers").val());
+    // console.log(num)
+    for (let i = num; i <= 99; num += 1) {
+      console.log(num)
+    }
 
-// $(document).ready(function() {
-//   $("form#inputNumber").submit(function(event) {
-//     const num = parseInt($("#numbers").val());
-  
-
-
-//   event.preventDefault();
-//   });
-// });
+  event.preventDefault();
+  });
+});
 
   
 
