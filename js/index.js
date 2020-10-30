@@ -1,2 +1,2 @@
-let siBNames = ["josh", "jozy"]
-con
+let siBNames = ["josh", "jozy"];
+console.log(siBNames)
