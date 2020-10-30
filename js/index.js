@@ -1,9 +1,6 @@
-const a = [1,2,3];
-const b = [1,2,3];
-// console.log(a === b)
-
-console.log(a.toString(), b.toString());
-
-
-
-
+const sibNames = ["josh", "jozy", "maggy", "georgia"]
+const parentsNames = ["kay", "hugh", "greg","dede"]
+const family = sibNames.concat(parentsNames);
+// console.log(family)
+let familynpets = family.concat("hobbes")
+console.log(familynpets)
