@@ -1,4 +1,9 @@
-const a = [1,2,3]
-const b = [1,2,3]
+const a = [1,2,3];
+const b = [1,2,3];
+// console.log(a === b)
 
-a === b
+console.log(a.toString(), b.toString());
+
+
+
+
