@@ -1,10 +1,29 @@
+// business logic
+// for (let i= 1; i <= 100; i++) {
+//   if (i )
+// }
+
+
+
+
+
+
+
+
+
+
+// UI logic//
+
 $(document).ready(function() {
   $("form#inputNumber").submit(function(event) {
-  const input = parseInt($("#numbers").val());
+    const num = parseInt($("#numbers").val());
+  
 
-  // console.log(input)
-  alert(input)
 
-  }
-
+  event.preventDefault();
+  });
 });
+
+  
+
+
