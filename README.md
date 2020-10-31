@@ -24,20 +24,24 @@ A user should be able to enter a new number and see new results over and over ag
   Test:
   Expect:
 
-Describe: input number as a string
+Describe:create string from input
 Test:
 Expect:
 
-Describe: change string into array of characters
+Describe: push string into an array
 Test:
 Expect:
 
-Describe: if character contains 
+Describe: forEach the string inside of the array array of 
+Test:
+Expect:
+
+Describe:find any number with 3 in it
 Test:
 Expect:
 
 Describe:
-Test:
+Test:forEach.splice
 Expect:
 
 Describe:
