@@ -37,7 +37,7 @@ This project requires this application to take a number from a user and return a
 ### code: const numberCheck = ["3", "2", "1"];
 ### Expect:array named "numberCheck" = ["3", "2", "1"]
 
-### Test:
+### Test: create an array
 ### code:
 ### Expect:
 
