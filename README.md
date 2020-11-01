@@ -1,8 +1,8 @@
 # Week 3 solo project "Mr. Robogers Neighbohood" 
 
-#### _{Brief description of application}, {Date of current version}_
+#### This application takes a number and returns a string in a range from the number to zero.  It replaces certain numbers with words upon return. 
 
-#### By Brian Sturgis
+### By Brian Sturgis   10/30/2020
 
 
 ## Description
@@ -25,43 +25,53 @@ This project requires this application to take a number from a user and return a
 
 ## specifications
 
+### Test: recieve input from user as value then convert to string into two seperate variables
+### code:let userInput = $("#numbers").val();const originalInput = $("#numbers").val();
+### Expect: userInput and originalInput to equal 
+
 ### Test:
+### code:
 ### Expect:
 
 ### Test:
+### code:
 ### Expect:
 
 ### Test:
+### code:
 ### Expect:
 
 ### Test:
+### code:
 ### Expect:
 
 ### Test:
+### code:
 ### Expect:
 
 ### Test:
+### code:
 ### Expect:
 
 ### Test:
+### code:
 ### Expect:
 
 ### Test:
+### code:
 ### Expect:
 
 ### Test:
+### code:
 ### Expect:
 
 ### Test:
+### code:
 ### Expect:
 
 ### Test:
+### code:
 ### Expect:
-
-### Test:
-### Expect:
-
-
 
 
 ## Setup/Installation Requirements
@@ -73,7 +83,12 @@ This project requires this application to take a number from a user and return a
 - open the index.html file to view the website
 
 ## Known Bugs
-- 
+- this application is in its very early stages so there are many known issues and in its current state has a very basic ui and no work done in css yet.
+- bug:
+- bug:
+- bug:
+- bug:
+
 ## Support and contact details
 email Brian Sturgis @ <sturujisu@gmail.com>
 
