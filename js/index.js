@@ -1,16 +1,17 @@
 $(document).ready(function(){
   $("#inputNumber").submit(function(event) {
     // Business
-    // console.log("hi")
+    console.log("hi")
     let userInput = $("#numbers").val();
     const originalInput = $("#numbers").val();
-    //  console.log(originalInput)
+     console.log(originalInput)
     const replacementWords = ["Won't you be my neighbor?", "Boop!", "Beep!"];
-    // console.log(replacementWords)
+    console.log(replacementWords)
     const numberCheck = ["3", "2", "1"];
-    // console.log(numberCheck);
+    console.log(numberCheck);
     let range = [];
-    // console.log(range)
+    console.log(range)
+
     function getNumberRange(userInput){
       range = [];
       let userNumber = parseInt(userInput)

@@ -39,7 +39,7 @@ const replacementWords = ["Won't you be my neighbor?", "Boop!", "Beep!"];
 #### Expect:  
 array named "replacementWords" = ["Won't you be my neighbor?", "Boop!", "Beep!"]
 
-#### Test:  create an array of the replacement numbers as a string of character
+#### Test:  <p>create an array of the replacement numbers as a string of character</p>
 #### code:  const numberCheck = ["3", "2", "1"];
 #### Expect:   array named "numberCheck" = ["3", "2", "1"]
 
