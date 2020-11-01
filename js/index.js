@@ -6,8 +6,7 @@ $(document).ready(function(){
     const originalInput = $("#numbers").val();
     //  console.log(originalInput)
     const replacementWords = ["Won't you be my neighbor?", "Boop!", "Beep!"];
-    
-    // const numberCheck = ["3", "2", "1"];
+    const numberCheck = ["3", "2", "1"];
     // let range = [];
     // function getNumberRange(userInput){
     //   range = [];
