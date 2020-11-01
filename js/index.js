@@ -6,7 +6,9 @@ $(document).ready(function(){
     const originalInput = $("#numbers").val();
     //  console.log(originalInput)
     const replacementWords = ["Won't you be my neighbor?", "Boop!", "Beep!"];
+    // console.log(replacementWords)
     const numberCheck = ["3", "2", "1"];
+    // console.log(numberCheck)
     let range = [];
     function getNumberRange(userInput){
       range = [];
@@ -17,12 +19,16 @@ $(document).ready(function(){
       } while(usernumber);
       range.reverse();
       return range;
-      console.log(range)
       }
+      console.log(range);
       event.preventDefault();
+    })
+      
+
+  })
     
+
+      
     
   
-  })
-
-})
+  
