@@ -25,53 +25,33 @@ This project requires this application to take a number from a user and return a
 
 ## specifications
 
-### Test: recieve input from user as value then convert to string into two seperate variables
-### code:let userInput = $("#numbers").val();const originalInput = $("#numbers").val();
-### Expect: "userInput" and "originalInput" to equal inputed value as a string
+#### Test:  
+recieve input from user as value then convert to string into two seperate variables
+#### code:  
+let userInput = $("#numbers").val();const originalInput = $("#numbers").val();
+#### Expect:  
+"userInput" and "originalInput" to equal inputed value as a string
 
-### Test: create a variable of the replacement words
-### code:const replacementWords = ["Won't you be my neighbor?", "Boop!", "Beep!"];
-### Expect: array named "replacementWords" = ["Won't you be my neighbor?", "Boop!", "Beep!"]
+#### Test:  
+create a variable of the replacement words
+#### code:   
+const replacementWords = ["Won't you be my neighbor?", "Boop!", "Beep!"];
+#### Expect:  
+array named "replacementWords" = ["Won't you be my neighbor?", "Boop!", "Beep!"]
 
-### Test: create an array of the replacement numbers as a string of character
-### code: const numberCheck = ["3", "2", "1"];
-### Expect:array named "numberCheck" = ["3", "2", "1"]
+#### Test:  create an array of the replacement numbers as a string of character
+#### code:  const numberCheck = ["3", "2", "1"];
+#### Expect:   array named "numberCheck" = ["3", "2", "1"]
 
-### Test: create an array
-### code:
-### Expect:
+#### Test: create an array
+#### code:
+#### Expect:
 
-### Test:
-### code:
-### Expect:
+#### Test:
+#### code:
+#### Expect:
 
-### Test:
-### code:
-### Expect:
 
-### Test:
-### code:
-### Expect:
-
-### Test:
-### code:
-### Expect:
-
-### Test:
-### code:
-### Expect:
-
-### Test:
-### code:
-### Expect:
-
-### Test:
-### code:
-### Expect:
-
-### Test:
-### code:
-### Expect:
 
 
 ## Setup/Installation Requirements

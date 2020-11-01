@@ -8,8 +8,9 @@ $(document).ready(function(){
     const replacementWords = ["Won't you be my neighbor?", "Boop!", "Beep!"];
     // console.log(replacementWords)
     const numberCheck = ["3", "2", "1"];
-    // console.log(numberCheck)
+    // console.log(numberCheck);
     let range = [];
+    // console.log(range)
     function getNumberRange(userInput){
       range = [];
       let userNumber = parseInt(userInput)
@@ -20,7 +21,8 @@ $(document).ready(function(){
       range.reverse();
       return range;
       }
-      console.log(range);
+      
+      
       event.preventDefault();
     })
       
