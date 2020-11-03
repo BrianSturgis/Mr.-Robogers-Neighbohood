@@ -8,7 +8,7 @@
 ## Description
 
 
-I have pasted from the project detail just to trap the information all in one place.
+
 
 This project requires this application to take a number from a user and return a range of numbers from 0 to the user inputted number with the following exceptions:
 
@@ -32,6 +32,9 @@ let userInput = $("#numbers").val();const originalInput = $("#numbers").val();
 #### Expect:  
 "userInput" and "originalInput" to equal inputed value as a string
 
+
+
+
 #### Test:  
 create a variable of the replacement words
 #### code:   
@@ -41,8 +44,10 @@ array named "replacementWords" = ["Won't you be my neighbor?", "Boop!", "Beep!"]
 
 #### Test:  
 create an array of the replacement numbers as a string of character
-#### code:  const numberCheck = ["3", "2", "1"];
-#### Expect:   array named "numberCheck" = ["3", "2", "1"]
+#### code:  
+const numberCheck = ["3", "2", "1"];
+#### Expect:   
+array named "numberCheck" = ["3", "2", "1"]
 
 #### Test: create an array
 #### code:
