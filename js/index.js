@@ -18,7 +18,14 @@ $(document).ready(function(){
 
 
 
-  function getRange(){
+  function getRange(userInput) {
+    range = [];
+    let usernumber = parseInt(userInput);
+    do {
+      range.push(usernumber);
+      usernumber --;
+    } while( Usern)
+    }
       
     
     }

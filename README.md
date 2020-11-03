@@ -39,7 +39,8 @@ const replacementWords = ["Won't you be my neighbor?", "Boop!", "Beep!"];
 #### Expect:  
 array named "replacementWords" = ["Won't you be my neighbor?", "Boop!", "Beep!"]
 
-#### Test:  <p>create an array of the replacement numbers as a string of character</p>
+#### Test:  
+create an array of the replacement numbers as a string of character
 #### code:  const numberCheck = ["3", "2", "1"];
 #### Expect:   array named "numberCheck" = ["3", "2", "1"]
 
@@ -63,11 +64,8 @@ array named "replacementWords" = ["Won't you be my neighbor?", "Boop!", "Beep!"]
 - open the index.html file to view the website
 
 ## Known Bugs
-- this application is in its very early stages so there are many known issues and in its current state has a very basic ui and no work done in css yet.
-- bug:
-- bug:
-- bug:
-- bug:
+- this application is in its very early stages so there are many known issues and in its current state has a very basic ui and very little done in css yet.
+
 
 ## Support and contact details
 email Brian Sturgis @ <sturujisu@gmail.com>
