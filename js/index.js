@@ -20,19 +20,18 @@ $(document).ready(function(){
 
   function getRange(userInput) {
     range = [];
-    let usernumber = parseInt(userInput);
+    let userNumber = parseInt(userInput);
     do {
-      range.push(usernumber);
-      usernumber --;
-    } while( Usern)
+      range.push(userNumber);
+      userNumber --;
+    } while( UsernNumber > 0)
+    range.reverse();
+    return range;
     }
       
     
-    }
-  function checkRange(){
-
-    }
-    
+  
+  
 
 
 
