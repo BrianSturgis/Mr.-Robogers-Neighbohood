@@ -1,3 +1,8 @@
+
+
+
+
+
 $(document).ready(function(){
   $("#inputNumber").submit(function(event) {
     event.preventDefault();
@@ -11,6 +16,11 @@ $(document).ready(function(){
     console.log(numberCheck);
     let range = [];
     console.log(range)
+
+
+
+
+
   function getRange(){
       
     
