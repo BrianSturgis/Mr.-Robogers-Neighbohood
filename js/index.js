@@ -1,8 +1,5 @@
 
 
-
-
-
 $(document).ready(function(){
   $("#inputNumber").submit(function(event) {
     event.preventDefault();
