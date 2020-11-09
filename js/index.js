@@ -4,9 +4,9 @@ function getNumberRange(numbers)  {
   for (let i = 0; i <= numbers; i++)
     if (i.toString().includes("3")) {
       numberRange.push("Won't you be my neighbor?");
-    } else if (i.toString().includes("2")) {
+    } else if (i.toString().includes("2")){
       numberRange.push("boop");
-    } else if (i.toString().includes("1")) {
+    } else if (i.toString().includes("1")){
       numberRange.push("beep");
     } else {
       numberRange.push(" " + i);
@@ -20,6 +20,5 @@ $(document).ready(function(){
     let numbers = parseInt($("#numbers").val());
     let answer = getNumberRange(numbers);
     $("p").text(answer);
-    $().show();
   });
 });
