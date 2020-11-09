@@ -17,11 +17,6 @@ This project requires this application to take a number from a user and return a
 - Numbers that contain a 3: all digits are replaced (all digits) with "Won't you be my neighbor?"
 - These exceptions are written from least to most important. The first exception should apply unless - - the second exception does, and the same with the second and third. So, for example, in your finished - program,
 
-- The number 13 should be replaced with "Won't you be my neigh bor?"
-- The number 21 should be replaced with "Boop".
-- The number 32 should be replaced with "Won't you be my neighbor?"
-
-- A user should be able to enter a new number and see new results over and over again.
 
 ## specifications
 
