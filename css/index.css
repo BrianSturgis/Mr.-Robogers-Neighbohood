@@ -17,3 +17,7 @@ body {
 #reverse {
   display: none;
 }
+
+#result {
+  display: none;
+}
